@@ -6,10 +6,7 @@ This project leverages **machine learning techniques** to predict Chronic Kidney
 ## 📂 Project Structure
 - **`data/`** → Raw & cleaned datasets (`ckd.csv`, `cleaned_data.csv`)
 - **`scripts/`** → Python scripts for data preprocessing & ML model training
-- **`models/`** → Saved trained models (joblib or pickle format)
-- **`gui/`** → Tkinter-based GUI for prediction
 - **`docs/`** → Project report & documentation
-- **`visuals/`** → Feature importance charts, ROC curves, model comparisons
 
 ## 🚀 Technologies Used
 - **Python** (Pandas, NumPy, scikit-learn, Seaborn, Matplotlib)
